@@ -23,7 +23,7 @@ Desarrollar una aplicación multiplataforma de noticias con IA e IoT, que permit
 + Diseñador UI  	(Garcia Granados Emiliano)
 + Programador BD  	(Murillo Tamayo Samuel David)
 + Programador  	(Contreras Osorio Jorge)
-+ Tester  	(Contreras Osorio Jorge)
++ Tester  	(Rodriguez Herrera Emmanuel)
 
 # ✅ Funcionalidades
  Registro e inicio de sesión (usuario normal / periodista)
