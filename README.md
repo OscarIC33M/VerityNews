@@ -26,17 +26,17 @@ Desarrollar una aplicación multiplataforma de noticias con IA e IoT, que permit
 + Tester  	(Rodriguez Herrera Emmanuel)
 
 # ✅ Funcionalidades
- Registro e inicio de sesión (usuario normal / periodista)
- Búsqueda libre de noticias
- Generación de resúmenes con IA
- Reportes/alertas personalizadas diarias
- Búsqueda especializada por categorías sensibles (periodistas)
- Generación de dossier de investigación con IA
- Acceso biométrico (IoT) a documentos confidenciales
- Score de confiabilidad de fuentes
- Detección de fuentes falsas/no verificadas
- Dashboard con métricas
- Bitácora de auditoría de accesos
++ Registro e inicio de sesión (usuario normal / periodista)
++ Búsqueda libre de noticias
++ Generación de resúmenes con IA
++ Reportes/alertas personalizadas diarias
++ Búsqueda especializada por categorías sensibles (periodistas)
++ Generación de dossier de investigación con IA
++ Acceso biométrico (IoT) a documentos confidenciales
++ Score de confiabilidad de fuentes
++ Detección de fuentes falsas/no verificadas
++ Dashboard con métricas
++ Bitácora de auditoría de accesos
 
 # FECHAS
 + FECHA INICIO: 16 SEPTIEMBRE 
