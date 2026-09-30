@@ -4,11 +4,11 @@
 
 Portal de noticias con suscripciones, dirigido a dos perfiles de usuario: usuarios normales y periodistas. Incluye generación de resúmenes personalizados mediante Inteligencia Artificial, verificación de la confiabilidad de fuentes, y acceso biométrico (IoT) para proteger la información confidencial de los periodistas en sus investigaciones.
 
-# 🎯 Objetivo
+#  Objetivo
 
 Desarrollar una aplicación multiplataforma de noticias con IA e IoT, que permita a los usuarios obtener resúmenes y reportes personalizados y verificados, y a los periodistas realizar búsquedas especializadas y proteger su información confidencial mediante biometría; utilizando Scrum y las herramientas JavaScript (Node.js/React), Firebase y VSC.
 
-# 🛠️ Herramientas de desarrollo
+#  Herramientas de desarrollo
 
 + JavaScript (Node.js + Express)	Backend en patrón MVC
 + React	Frontend / interfaz de usuario
@@ -17,7 +17,8 @@ Desarrollar una aplicación multiplataforma de noticias con IA e IoT, que permit
 + MQTT / IoT (ESP32-CAM o Raspberry Pi)	Autenticación biométrica de periodistas
 + VSC (Visual Studio Code)	Entorno de desarrollo
   
-# 👥 Equipo de trabajo
+#  Equipo de trabajo
+
 + Rol	           
 + Scrum Master	Oscar Oliverio Ruiz Torres
 + Diseñador UI  	(Garcia Granados Emiliano)
@@ -25,7 +26,8 @@ Desarrollar una aplicación multiplataforma de noticias con IA e IoT, que permit
 + Programador  	(Contreras Osorio Jorge)
 + Tester  	(Rodriguez Herrera Emmanuel)
 
-# ✅ Funcionalidades
+#  Funcionalidades
+
 + Registro e inicio de sesión (usuario normal / periodista)
 + Búsqueda libre de noticias
 + Generación de resúmenes con IA
